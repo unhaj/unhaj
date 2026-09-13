@@ -14,6 +14,7 @@
     ".github/ISSUE_TEMPLATE/feature_request.yml",
     ".github/dependabot.yml",
     ".github/pull_request_template.md",
+    ".github/workflows/brand-quality.yml",
     "ARCHITECTURE.md",
     "BRAND.md",
     "CODE_OF_CONDUCT.md",
