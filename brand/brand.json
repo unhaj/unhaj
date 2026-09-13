@@ -1,0 +1,34 @@
+{
+  "name": "UNHAJ",
+  "tagline": "A Visual Point of View.",
+  "category": "photography",
+  "description": "A visual portfolio for galleries, projects, services, licensing, print sales, and contact.",
+  "colors": [
+    "#0f0e0c",
+    "#f5f0e6",
+    "#c6a66c",
+    "#746758",
+    "#a69a87",
+    "#181611"
+  ],
+  "website": "https://unhaj.github.io/",
+  "principles": [
+    "image",
+    "light",
+    "story",
+    "craft"
+  ],
+  "support": {
+    "email": "support@unhaj.example",
+    "phone": "+1 202-555-0176",
+    "salesPhone": "+1 202-555-0175",
+    "businessPhone": "+1 202-555-0174",
+    "hours": "DEMO · Mon–Fri · 09:00–17:00",
+    "center": "https://unhaj.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false,
+    "demoContactData": true
+  },
+  "telnyxMode": false
+}
